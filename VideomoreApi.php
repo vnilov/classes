@@ -36,8 +36,8 @@ class VideomoreApi
 
     //load default config
     private function loadDefault() {
-        $this->_app_id = 'webctclove';
-        $this->_secret = '7201050977d822571e6032b148ad75fa';
+        $this->_app_id = 'yyyy';
+        $this->_secret = 'xxxxxxxxxxxxxxx';
     }
 
     //build request to videomore api	
